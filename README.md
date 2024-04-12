@@ -8,7 +8,7 @@
 
 </div>
 
-## :homes: 서비스 소개
+## 🏡 서비스 소개
 
 풋살을 즐기는 사람들을 위한 소셜 기능, 매치 메이킹 및 드론 영상 기반 경기 분석 앱 서비스
 
@@ -101,7 +101,7 @@ https://github.com/gnoesnooj/iandwe/assets/91658692/f39bd75b-fa56-4bf4-8cf0-08ff
 | ![personalFeedback](./exec/gif/personalFeedback.gif) | ![board](./exec/gif/board.gif) | ![myprofile](./exec/gif/myprofile.gif) |
 | ---                                                  | ---                            | ---                                    |
 
-## :park: 개발 환경
+## 🏞️ 개발 환경
 
 <div align=center>
 
@@ -129,11 +129,11 @@ https://github.com/gnoesnooj/iandwe/assets/91658692/f39bd75b-fa56-4bf4-8cf0-08ff
 
 </div>
 
-## :tools: 아키텍처
+## 🧰 아키텍처
 
 ![아키텍처](/uploads/76710d135cab9ea33af88b156f57ed51/아키텍처.PNG)
 
-## :desktop: 화면 정의서
+## 🖥️ 화면 정의서
 
 > [MANCITY FIGMA - 화면 정의서](https://www.figma.com/file/JwSL8sh6llTJinGxoLvuPu/MANCITY?type=design&node-id=0-1&mode=design&t=eAtAYkD2Ky5DAAkR-0)
 
@@ -149,6 +149,6 @@ https://github.com/gnoesnooj/iandwe/assets/91658692/f39bd75b-fa56-4bf4-8cf0-08ff
 
 > [MANCITY LUCID CHART - ERD](https://lucid.app/lucidchart/3908db42-d6c1-496f-81e3-764e79c50846/edit?viewport_loc=-238%2C-255%2C2446%2C1079%2C0_0&invitationId=inv_3dd803fe-8963-417c-8241-5cbbd93900b3)
 
-## :family_mmgb: 팀원 소개
+## 👨‍👨‍👧‍👦 팀원 소개
 
 ![팀원소개](https://github.com/gnoesnooj/iandwe/assets/91658692/c5e66e85-d8a9-4621-a89c-e0e01756e225)
