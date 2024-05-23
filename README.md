@@ -131,7 +131,8 @@ https://github.com/gnoesnooj/iandwe/assets/91658692/f39bd75b-fa56-4bf4-8cf0-08ff
 
 ## 🧰 아키텍처
 
-![아키텍처](/uploads/76710d135cab9ea33af88b156f57ed51/아키텍처.PNG)
+![image](https://github.com/gnoesnooj/futsal_application/assets/91658692/d609f3fc-b3d6-474e-a9c6-f28e7a3c9086)
+
 
 ## 🖥️ 화면 정의서
 
